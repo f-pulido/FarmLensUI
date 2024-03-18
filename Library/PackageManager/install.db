@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "6b31efb96f12",
+        "mtime": 1710637731443,
+        "size": 10561549,
+        "localPath": "C:\\Users\\snagy\\OneDrive\\Documents\\FarmLens\\FarmLensUI\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.10.0.tgz"
+      }
+    }
+  }
+}
